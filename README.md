@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @travismhayes
+- 👀 I’m interested in Laravel, Livewire, and Inertia
+- 💞️ I’m looking to collaborate on Laravel and PHP projects
+- 📫 How to reach me - travis@travismhayes.com
